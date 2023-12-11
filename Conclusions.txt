@@ -1,0 +1,4 @@
+Последовательность: MSTLTSVSGFPRIGQNRELKKIIEGYWKGANDLAAVKATAAELRAKHWRLQQAAGIDLIASNDFSYYDQMLDTAILLNVIPQRYQRLAFDDQEDTLFAMA
+Программы-предсказатели: OpenFold и OmegaFold
+Программа-выравниватель: TM-align
+Вывод: Выравнивание показало, что предсказанные структуры сильно совпадают.
